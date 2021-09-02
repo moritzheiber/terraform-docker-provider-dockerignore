@@ -1,0 +1,5 @@
+some_ignored_file.txt
+terraform*
+Dockerfile
+docs
+README.md
