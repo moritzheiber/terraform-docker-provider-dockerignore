@@ -72,7 +72,7 @@ drwxr-xr-x    7 root     root          4096 Aug  5 12:25 usr
 drwxr-xr-x   12 root     root          4096 Aug  5 12:25 var
 ```
 
-_Note: the permissions are also horrible wrong, but that's for another bug to consider_
+*Note: the permissions are also horrible wrong, but that's for another bug to consider*
 
 You can verify that the `.dockerignore` file is being properly observed when build the container manually and inspecting its content:
 
