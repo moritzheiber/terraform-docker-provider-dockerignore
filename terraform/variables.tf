@@ -1,5 +1,6 @@
 variable "github_access_token" {
-  type = string
+  type      = string
+  sensitive = true
 }
 
 variable "username" {
